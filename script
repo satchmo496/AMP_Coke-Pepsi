@@ -11,12 +11,12 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/amp/qualt
 					nameForLogging : 'Coke', //Will be used in the logging
 					//An array of all media objects for this category.
 					mediaArray : [
-					    	{image : 'Coke1.jpg'}, 
-						{image : 'Coke2.jpg'}, 
-						{image : 'Coke3.jpg'}, 
-						{image : 'Coke4.jpg'}, 
-						{image : 'Coke5.jpg'}, 
-						{image : 'Coke6.jpg'}]
+					    	{image : 'coke1.jpg'}, 
+						{image : 'coke2.jpg'}, 
+						{image : 'coke3.jpg'}, 
+						{image : 'coke4.jpg'}, 
+						{image : 'coke5.jpg'}, 
+						{image : 'coke6.jpg'}]
 	
 
 				}, 
@@ -25,12 +25,12 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/amp/qualt
 					nameForLogging : 'Pepsi', //Will be used in the logging
 					//An array of all media objects for this category.
 					mediaArray : [
-					    {image : 'Pepsi1.jpg'}, 
-						{image : 'Pepsi2.jpg'}, 
-						{image : 'Pepsi3.jpg'}, 
-						{image : 'Pepsi4.jpg'}, 
-						{image : 'Pepsi5.jpg'}, 
-						{image : 'Pepsi6.jpg'}]
+					    {image : 'pepsi1.jpg'}, 
+						{image : 'pepsi2.jpg'}, 
+						{image : 'pepsi3.jpg'}, 
+						{image : 'pepsi4.jpg'}, 
+						{image : 'pepsi5.jpg'}, 
+						{image : 'pepsi6.jpg'}]
 				}
 			],
 	
